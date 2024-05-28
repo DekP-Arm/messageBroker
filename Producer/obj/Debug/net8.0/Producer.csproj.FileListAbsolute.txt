@@ -59,3 +59,4 @@ E:\API_team\messageBroker\Producer\obj\Debug\net8.0\refint\Producer.dll
 E:\API_team\messageBroker\Producer\obj\Debug\net8.0\Producer.pdb
 E:\API_team\messageBroker\Producer\obj\Debug\net8.0\Producer.genruntimeconfig.cache
 E:\API_team\messageBroker\Producer\obj\Debug\net8.0\ref\Producer.dll
+E:\API_team\messageBroker\Producer\obj\Debug\net8.0\Producer.sourcelink.json
