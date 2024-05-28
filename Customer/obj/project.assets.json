@@ -1252,19 +1252,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Thailand\\.nuget\\packages\\": {}
+    "/Users/comnarin/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "e:\\API_team\\messageBroker\\Customer\\Customer.csproj",
+      "projectUniqueName": "/Users/comnarin/Documents/TCC-tech/messageBroker/Customer/Customer.csproj",
       "projectName": "Customer",
-      "projectPath": "e:\\API_team\\messageBroker\\Customer\\Customer.csproj",
-      "packagesPath": "C:\\Users\\Thailand\\.nuget\\packages\\",
-      "outputPath": "e:\\API_team\\messageBroker\\Customer\\obj\\",
+      "projectPath": "/Users/comnarin/Documents/TCC-tech/messageBroker/Customer/Customer.csproj",
+      "packagesPath": "/Users/comnarin/.nuget/packages/",
+      "outputPath": "/Users/comnarin/Documents/TCC-tech/messageBroker/Customer/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Thailand\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "/Users/comnarin/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -1329,7 +1329,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.205/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.204/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

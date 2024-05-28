@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "E:\\API_team\\messageBroker\\Producer\\Producer.csproj": {}
+    "/Users/comnarin/Documents/TCC-tech/messageBroker/Producer/Producer.csproj": {}
   },
   "projects": {
-    "E:\\API_team\\messageBroker\\Producer\\Producer.csproj": {
+    "/Users/comnarin/Documents/TCC-tech/messageBroker/Producer/Producer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\API_team\\messageBroker\\Producer\\Producer.csproj",
+        "projectUniqueName": "/Users/comnarin/Documents/TCC-tech/messageBroker/Producer/Producer.csproj",
         "projectName": "Producer",
-        "projectPath": "E:\\API_team\\messageBroker\\Producer\\Producer.csproj",
-        "packagesPath": "C:\\Users\\Thailand\\.nuget\\packages\\",
-        "outputPath": "E:\\API_team\\messageBroker\\Producer\\obj\\",
+        "projectPath": "/Users/comnarin/Documents/TCC-tech/messageBroker/Producer/Producer.csproj",
+        "packagesPath": "/Users/comnarin/.nuget/packages/",
+        "outputPath": "/Users/comnarin/Documents/TCC-tech/messageBroker/Producer/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Thailand\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/Users/comnarin/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -79,7 +79,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.205/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.204/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
